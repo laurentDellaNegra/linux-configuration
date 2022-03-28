@@ -1,3 +1,20 @@
+# 1. Install iTerm2 (macos), preferences:
+#   - solarized dark
+#   - font foreground: white
+#   - font size: 14
+#   - Profiles > Keys > Key mappings > Presets > Natural text Editing : allow navigate word by word
+
+# 2. Install oh-my-zsh https://ohmyz.sh/#install
+# 3. Install powerlevel10k https://github.com/romkatv/powerlevel10k#getting-started
+# 4. Install autosuggest: https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md#oh-my-zsh
+
+
+
+
+
+
+
+
 # Enable Powerlevel10k instant prompt. Should stay close to the top of ~/.zshrc.
 # Initialization code that may require console input (password prompts, [y/n]
 # confirmations, etc.) must go above this block; everything else may go below.
